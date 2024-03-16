@@ -9,7 +9,7 @@
             GetFactAsync(n);
             Hello(n);//создала метод чтобы проверить асинхронность
             Console.ReadKey();
-
+             
         }
 
         static int GetFact (int n)
